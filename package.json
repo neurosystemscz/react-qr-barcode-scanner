@@ -1,6 +1,6 @@
 {
   "name": "react-qr-barcode-scanner-recent-react",
-  "version": "1.1.2",
+  "version": "1.1.3",
   "description": "A simple React Component using the client's webcam to read barcodes and QR codes.",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
@@ -15,7 +15,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/neurosystemscz/react-qr-barcode-scanner.git"
+    "url": "git+https://github.com/neurosystemscz/react-qr-barcode-scanner-recent-react.git"
   },
   "keywords": [
     "react",
@@ -28,9 +28,9 @@
   ],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/jamenamcinteer/react-qr-barcode-scanner/issues"
+    "url": "https://github.com/neurosystemscz/react-qr-barcode-scanner-recent-react/issues"
   },
-  "homepage": "https://github.com/jamenamcinteer/react-qr-barcode-scanner#readme",
+  "homepage": "https://github.com/neurosystemscz/react-qr-barcode-scanner-recent-react#readme",
   "peerDependencies": {
     "react": "^17.0.2",
     "react-dom": "^17.0.2"
