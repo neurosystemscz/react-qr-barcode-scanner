@@ -37,7 +37,7 @@
   },
   "dependencies": {
     "@types/react": "^17.0.2",
-    "@zxing/library": "^17.0.2",
+    "@zxing/library": "^0.19.1",
     "react-webcam": "^5.0.1"
   },
   "devDependencies": {
